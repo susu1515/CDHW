@@ -1,3 +1,4 @@
+### Overview
 This project develops a stage-resolved analytical framework to investigate global compound drought–heatwave (CDHW) events and their interactions with soil moisture from 1920–2019.
 
 The codebase includes:
