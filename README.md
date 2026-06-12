@@ -4,13 +4,6 @@ This repository contains the analysis code and supporting materials for the manu
 
 **A response-sensitive moisture window shapes soil moisture loss during global compound drought-heatwave events**
 
-The main reproducible entry point is:
-
-```text
-code/paper2_methods_order_code_20260611.ipynb
-```
-
-This notebook is organized strictly according to the final manuscript and supplement dated `20260611`. In that version, the ExtraTrees-SHAP section appears before the pre-onset hydrothermal pathway analysis, and the notebook follows that order.
 
 ## Repository structure
 
@@ -46,12 +39,6 @@ The final notebook follows the paper methods in this order:
 8. Reproduce Supplementary A-E utilities, validation and uncertainty analyses.
 
 ## Final sensitive-region and SHAP code
-
-The final response-sensitive-region and SHAP analyses are **not** taken from the old notebook SHAP cells. They are stored in:
-
-```text
-modify/敏感区/code/
-```
 
 Key scripts include:
 
